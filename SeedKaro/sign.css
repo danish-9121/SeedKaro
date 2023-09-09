@@ -1,0 +1,14 @@
+.bg{
+    background-image:url('img/11-bg.jpg');
+}
+
+.CreateAccount{
+    color: rgb(41, 201, 41);
+}
+
+.footer{
+    margin-top: 40px;
+    background-color: black;
+    color: rgb(41, 201, 41);
+    padding: 20px;
+}

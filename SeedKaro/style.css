@@ -1,0 +1,60 @@
+.nav{
+    background-color:white;
+}
+
+/* .logo{
+    height: 1%;
+    width: 1%;
+} */
+.h1{
+    color: rgb(41, 201, 41);
+}
+
+.Our-Feature{
+    color:  rgb(41, 201, 41);
+    text-align: center;
+}
+
+.text{
+    text-align: center;
+}
+
+.h2{
+    color: rgb(41, 201, 41);
+    text-align: center;
+    margin-top: 275px;
+}
+.p{
+    text-align: center;
+}
+
+.button{
+    text-align: center;
+}
+
+.sign{
+    color: white;
+    background-color: rgb(41, 201, 41);
+}
+
+.signbutton{
+    background-color: rgb(41, 201, 41);
+}
+
+.footer{
+    margin-top: 40px;
+    background-color: black;
+    color: rgb(41, 201, 41);
+    padding: 20px;
+}
+
+.stext{
+    padding: 50px;
+}
+
+/* .img{
+    height: 65vh;
+    width: 65vh;
+    float: right;
+    padding:30px;
+} */
